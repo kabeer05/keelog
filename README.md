@@ -4,7 +4,7 @@
 
 - [ ] Keylogging Functionality
 
-  - [ ] Capture keystrokes using pynput.keyboard.Listener.
+  - [x] Capture keystrokes using pynput.keyboard.Listener.
   - [ ] Record each keystroke and format it for readability.
   - [ ] Handle special keys (e.g., Enter, Backspace, Shift) for proper logging.
 
